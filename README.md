@@ -3,14 +3,17 @@
 <h2 align="center">Hi! My name is Nauman Noor and I'm a Computer Science Student, from Pakistan 🇵🇰</h2>
 
 ###
->
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naumangoraya&locale=en&hide_title=false&layout=compact&card_width=520&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGU0dGpzdGFpOW9ndDBxZTNmdG90a2JmcGpnN2J5Z2JpNjA1dTJvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
 
 ### 💫 About Me:
-I'm a Computer Science student passionate about building smart, scalable software. Currently working on projects that combine **AI/ML**, **web development (MERN Stack)**, and **data engineering**. I enjoy solving real-world problems using technology - from intelligent chatbots and automation tools to data-driven dashboards and resume optimization systems. Always eager to learn, collaborate, and contribute to impactful open-source projects.
+I'm a Computer Science student passionate about building smart, scalable software. Currently working on projects that combine **AI/ML**, **web development (MERN Stack)**, and **data engineering**. I enjoy solving real-world problems using technology from intelligent chatbots and automation tools to data-driven dashboards. Always eager to learn, collaborate, and contribute to impactful open-source projects.
 
 ###
 
@@ -101,14 +104,36 @@ I'm a Computer Science student passionate about building smart, scalable softwar
   </a>
 </div>
 
+###
 
-## 🐍 Contribution Snake:
+## 📊 GitHub Analytics:
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naumangoraya/naumangoraya/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naumangoraya/naumangoraya/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/naumangoraya/naumangoraya/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=naumangoraya&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=naumangoraya&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+## 🏆 Top Contributed Repositories:
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=naumangoraya&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+</div>
+
+###
+
+## 📈 Contribution Activity:
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naumangoraya&theme=dracula&bg_color=282a36&color=bd93f9&line=50fa7b&point=ffb86c&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+## 📅 Contribution Calendar & Stats:
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/409ba5/naumangoraya" alt="GitHub Contribution Chart" width="100%" />
+</div>
 
 ###
 
