@@ -129,11 +129,6 @@ I'm a Computer Science student passionate about building smart, scalable softwar
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=naumangoraya&theme=dracula&bg_color=282a36&color=bd93f9&line=50fa7b&point=ffb86c&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
-## 📅 Contribution Calendar & Stats:
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/409ba5/naumangoraya" alt="GitHub Contribution Chart" width="100%" />
-</div>
 
 ###
 
